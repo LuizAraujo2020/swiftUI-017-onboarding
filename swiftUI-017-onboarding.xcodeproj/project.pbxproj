@@ -11,6 +11,7 @@
 		6F6CC7B227186A4A00FDFB03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F6CC7B127186A4A00FDFB03 /* ContentView.swift */; };
 		6F6CC7B427186A4C00FDFB03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F6CC7B327186A4C00FDFB03 /* Assets.xcassets */; };
 		6F6CC7B727186A4C00FDFB03 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F6CC7B627186A4C00FDFB03 /* Preview Assets.xcassets */; };
+		6F6CC7BF2718772B00FDFB03 /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F6CC7BE2718772B00FDFB03 /* Onboarding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,8 @@
 		6F6CC7B127186A4A00FDFB03 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6F6CC7B327186A4C00FDFB03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F6CC7B627186A4C00FDFB03 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6F6CC7BD27186A5800FDFB03 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6F6CC7BE2718772B00FDFB03 /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +38,7 @@
 		6F6CC7A327186A4A00FDFB03 = {
 			isa = PBXGroup;
 			children = (
+				6F6CC7BD27186A5800FDFB03 /* README.md */,
 				6F6CC7AE27186A4A00FDFB03 /* swiftUI-017-onboarding */,
 				6F6CC7AD27186A4A00FDFB03 /* Products */,
 			);
@@ -55,6 +59,7 @@
 				6F6CC7B127186A4A00FDFB03 /* ContentView.swift */,
 				6F6CC7B327186A4C00FDFB03 /* Assets.xcassets */,
 				6F6CC7B527186A4C00FDFB03 /* Preview Content */,
+				6F6CC7BE2718772B00FDFB03 /* Onboarding.swift */,
 			);
 			path = "swiftUI-017-onboarding";
 			sourceTree = "<group>";
@@ -137,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F6CC7BF2718772B00FDFB03 /* Onboarding.swift in Sources */,
 				6F6CC7B227186A4A00FDFB03 /* ContentView.swift in Sources */,
 				6F6CC7B027186A4A00FDFB03 /* swiftUI_017_onboardingApp.swift in Sources */,
 			);
